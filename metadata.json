@@ -1,0 +1,7 @@
+{
+  "name": "创运 AI (Startup Oracle)",
+  "description": "赛博玄学决策引擎：用算法算命，用算力改运。为创业者的每一个至暗时刻提供‘天意’。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
